@@ -29,14 +29,6 @@ Os testes contemplaram cadastro, autenticação,
 operações de gerenciamento de tarefas e
 restrições de acesso entre usuários.
 
-## Organização do repositório
-
-- `imagens/apendice_b/`: evidências selecionadas
-  para o Apêndice B da monografia.
-- `imagens/graficos/`: gráficos da análise estrutural.
-- `evidencias_complementares/`: registros adicionais
-  dos testes, separados por modelo e estratégia.
-
 ## Direitos autorais
 
 Copyright (c) 2026 Vinicius Paiva.
